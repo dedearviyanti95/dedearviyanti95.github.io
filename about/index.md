@@ -15,8 +15,8 @@ Nim : 11353204648<br>
 Jurusan : Sistem Informasi<br>
 Fakultas : Saintek<br>
 Alamat : Perum Villa Pesona Panam<br>
-[Sistem Informasi](sif.uin-suska)<br>
-[Uin Suska](uin-suska)<br>
+[Sistem Informasi](http://sif.uin-suska)<br>
+[Uin Suska](http://uin-suska)<br>
 <img src="/images/B612-2016-04-13-15-59-39.jpg">
 
 
